@@ -93,11 +93,11 @@ Conformément aux exigences du **TAF 1**, les points suivants ont été impléme
 
 ## 🔗 Dépôt GitHub
 Le code source est disponible ici :  
-👉 [https://github.com/TON_NOM/Backend-TP222](https://github.com/TON_NOM/Backend-TP222)
+👉 [https://github.com/TON_NOM/Backend-TP222](https://github.com/meka-ella/Backend-TP222)
 
 ---
-**Auteur** : [Ton Nom et Prénom]  
-**Matricule** : [Ton Matricule]  
+**Auteur** : [meka ella a]  
+**Matricule** : [24G2491]  
 **Filière** : Licence 2 Informatique  
 **Sous la direction de** : Charles Njiosseu, PhD Student (INF222)
 ```
